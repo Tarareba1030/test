@@ -21,7 +21,7 @@ int main()
 
    
     
-    std::cout << *(offset+5) << std::endl;
+    std::cout << *(offset+8) << std::endl;
     
 
     //0xaが結構大事な部分に使われているので書き換えられない?
