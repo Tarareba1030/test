@@ -14,7 +14,7 @@ int main()
         std::cin >> S[i];
     }
     
-    int flag=1;
+    int flag=114514;
 
     for(int i=0; i<N-1; i++){
         if(S[i]==*stone){
