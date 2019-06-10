@@ -4,7 +4,7 @@
 unsigned int W[4];
 unsigned int W1[16];
 unsigned int* offset;
-
+//ABCDEF
 struct bit{
     unsigned int X3:1;
     unsigned int X2:1;
