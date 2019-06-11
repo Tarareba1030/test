@@ -1,5 +1,5 @@
 #include <iostream>
-
+abcdef
 struct bit{
     unsigned int X1 : 1;
     unsigned int X2 : 1;
